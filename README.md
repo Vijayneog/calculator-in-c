@@ -26,7 +26,7 @@
   			break;
 		case '%':
 			result = num1 % num2;
-      break;
+                        break;
 		default:
 			printf("\n You have enetered an Invalid Operator ");				    			
 	}
