@@ -1,10 +1,10 @@
-# calculator-in-c
-this program include addition subtration multiplication and modulo function
-#include<stdio.h>
-int main()
-{
-	char operation;
-	int num1, num2, result = 0;
+
+        #include<stdio.h>
+  
+        int main()
+        {
+	  char operation;
+	  int num1, num2, result = 0;
 	
   	
 	printf("\n ");
@@ -33,5 +33,5 @@ int main()
   
 	printf("%d", result);
 	
-  return 0;
-  }
+        return 0;
+         }
